@@ -66,6 +66,10 @@ module.exports = {
       name: "Github",
       url: "https://github.com/davidevanlovett",
     },
+    {
+      name: "Twitter",
+      url: "https://twitter.com/davidevanlovett",
+    },
   ],
 
   //-- NAVIGATION SETTINGS -----
